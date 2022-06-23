@@ -14,7 +14,7 @@ Follow the REST APIs with Flask and Python course on Udemy https://www.udemy.com
 
 `deactivate.bat` (deactivate venv)
 
-## Install Flask-Restful
+## Install Flask-Restful and JWT
 `pip install Flask-RESTful`
-
+`pip install Flask-JWT`
 `pip freeze` (libraries installed)
